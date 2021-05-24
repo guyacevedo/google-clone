@@ -35,7 +35,7 @@ nav .nav-right-section a {
 }
 
 nav .nav-right-section .menu-icon {
-    background-image: url('https://guyacevedo.github.io/google-clone/assets/menu-icon.png');
+    background-image: url('/assets/menu-icon.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -91,7 +91,7 @@ main .main-input-container:hover {
 }
 
 main .main-input .search-icon {
-    background-image: url('https://guyacevedo.github.io/google-clone/assets/search-icon.png');
+    background-image: url('assets/search-icon.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
